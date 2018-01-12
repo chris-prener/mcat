@@ -13,7 +13,7 @@
 # GitHub username
 USERNAME=chris-prener
 # GitHub repo
-REPO=presentingData
+REPO=mcat
 # Name of the branch containing the Hugo source files.
 SOURCE=sources
 
