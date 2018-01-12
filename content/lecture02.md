@@ -1,7 +1,7 @@
 ---
 date: 2018-01-12
-title: Sequoia Template
-weight: 23
+title: Lecture 01 - Relationships and Behavior
+weight: 21
 ---
 
-I am working on a release of an updated version of my Sequoia theme for Apple Keynote. In the meantime, my original Sequoia theme can be found on [GitHub](https://github.com/chris-prener/sequoia_templates).
+Content will be updated prior to session 1 on January 23, 2018.

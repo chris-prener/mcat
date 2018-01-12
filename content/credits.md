@@ -9,8 +9,5 @@ This website is built with the `R` package [Blogdown](https://bookdown.org/yihui
 ## Photo credits
 All stock imagery used on this site is sourced from [Unsplash](https://unsplash.com).
 
-* [Cover photo](https://unsplash.com/photos/S5uV7ro4UPY) by [Mohammad Alizade](https://unsplash.com/@mohamadaz?utm_medium=referral) 
-* [Undergrad presentation photo](https://unsplash.com/photos/4V1dC_eoCwg) by [Edwin Andrade](https://unsplash.com/@theunsteady5?utm_medium=referral)
-* [Master's presentation photo](https://unsplash.com/photos/npxXWgQ33ZQ) by [Glenn Carstens-Peters](https://unsplash.com/@glenncarstenspeters?utm_medium=referral)
-* [Presentation resources photo](https://unsplash.com/photos/xiTFENI0dMY) by [Patrik Göthe](https://unsplash.com/@p?utm_medium=referral)
-* [Sequoia photo](https://unsplash.com/photos/dfo06_DqxpA) by [Victoria Palacios](https://unsplash.com/@toriamia?utm_medium=referral)
+* [Cover photo](https://unsplash.com/photos/yGUuMIqjIrU) by [Daan Stevens](https://unsplash.com/@daanstevens?utm_medium=referral) 
+* [Homepage banner photo](https://unsplash.com/photos/vNFHg0J0wRs) by [Piron Guillaume](https://unsplash.com/@gpiron?utm_medium=referral)
