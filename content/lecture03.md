@@ -1,7 +1,8 @@
 ---
-date: 2018-01-12
+date: 2018-02-20
 title: Lecture 03 - Identity and the Individual
 weight: 22
 ---
 
-Content will be updated prior to session 2 on February 20, 2018.
+## Lecture Slides
+{{< speakerdeck f02becccdf974a959c6299786dabca00 >}}
