@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MCAT Prep</title>
-    <link>/mcat/</link>
+    <link>https://chris-prener.github.io/mcat/</link>
     <description>Recent content on MCAT Prep</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 23 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/mcat/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chris-prener.github.io/mcat/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Lecture 01 - Society, Culture, and Health</title>
-      <link>/mcat/lecture01/</link>
+      <link>https://chris-prener.github.io/mcat/lecture01/</link>
       <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/mcat/lecture01/</guid>
+      <guid>https://chris-prener.github.io/mcat/lecture01/</guid>
       <description> Lecture Slides  </description>
     </item>
     
     <item>
       <title>Lecture 02 - Relationships and Behavior</title>
-      <link>/mcat/lecture02/</link>
+      <link>https://chris-prener.github.io/mcat/lecture02/</link>
       <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/mcat/lecture02/</guid>
+      <guid>https://chris-prener.github.io/mcat/lecture02/</guid>
       <description> Lecture Slides  </description>
     </item>
     
     <item>
       <title>Lecture 03 - Identity and the Individual</title>
-      <link>/mcat/lecture03/</link>
+      <link>https://chris-prener.github.io/mcat/lecture03/</link>
       <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/mcat/lecture03/</guid>
+      <guid>https://chris-prener.github.io/mcat/lecture03/</guid>
       <description> Lecture Slides  </description>
     </item>
     
     <item>
       <title>Lecture 04 - Thought and Emotion</title>
-      <link>/mcat/lecture04/</link>
+      <link>https://chris-prener.github.io/mcat/lecture04/</link>
       <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/mcat/lecture04/</guid>
+      <guid>https://chris-prener.github.io/mcat/lecture04/</guid>
       <description>Content will be updated prior to session 3, whose date is TBD.</description>
     </item>
     
     <item>
       <title>Lecture 05 - Biological Correlates of Psychology</title>
-      <link>/mcat/lecture05/</link>
+      <link>https://chris-prener.github.io/mcat/lecture05/</link>
       <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/mcat/lecture05/</guid>
+      <guid>https://chris-prener.github.io/mcat/lecture05/</guid>
       <description>Content will be updated prior to session 3, whose date is TBD.</description>
     </item>
     
     <item>
       <title>Credits</title>
-      <link>/mcat/credits/</link>
+      <link>https://chris-prener.github.io/mcat/credits/</link>
       <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/mcat/credits/</guid>
+      <guid>https://chris-prener.github.io/mcat/credits/</guid>
       <description> This website is built with the R package Blogdown and Hugo using a fork of the Strata theme.
 Photo credits All stock imagery used on this site is sourced from Unsplash.
  Cover photo by Daan Stevens Homepage banner photo by Piron Guillaume  </description>
@@ -69,10 +69,10 @@ Photo credits All stock imagery used on this site is sourced from Unsplash.
     
     <item>
       <title>License</title>
-      <link>/mcat/license/</link>
+      <link>https://chris-prener.github.io/mcat/license/</link>
       <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/mcat/license/</guid>
+      <guid>https://chris-prener.github.io/mcat/license/</guid>
       <description>Copyright &amp;copy; 2017-2018 Christopher G. Prener
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 This is a human-readable summary of (and not a substitute for) the license.
