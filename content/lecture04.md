@@ -1,7 +1,8 @@
 ---
-date: 2018-01-12
+date: 2018-03-28
 title: Lecture 04 - Thought and Emotion
 weight: 23
 ---
 
-Content will be updated prior to session 3, whose date is TBD.
+## Lecture Slides
+{{< speakerdeck b2aba00b8f744fb0a4cd302dc902362b >}}
