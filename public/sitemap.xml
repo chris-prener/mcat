@@ -2,53 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/mcat/lecture01/</loc>
+    <loc>https://chris-prener.github.io/mcat/lecture01/</loc>
     <lastmod>2018-01-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/mcat/lecture02/</loc>
+    <loc>https://chris-prener.github.io/mcat/lecture02/</loc>
     <lastmod>2018-01-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/mcat/lecture03/</loc>
+    <loc>https://chris-prener.github.io/mcat/lecture03/</loc>
     <lastmod>2018-02-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/mcat/lecture04/</loc>
+    <loc>https://chris-prener.github.io/mcat/lecture04/</loc>
     <lastmod>2018-03-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/mcat/lecture05/</loc>
+    <loc>https://chris-prener.github.io/mcat/lecture05/</loc>
     <lastmod>2018-03-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/mcat/credits/</loc>
+    <loc>https://chris-prener.github.io/mcat/credits/</loc>
     <lastmod>2018-01-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/mcat/license/</loc>
+    <loc>https://chris-prener.github.io/mcat/license/</loc>
     <lastmod>2018-01-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/mcat/categories/</loc>
+    <loc>https://chris-prener.github.io/mcat/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/mcat/</loc>
+    <loc>https://chris-prener.github.io/mcat/</loc>
     <lastmod>2018-01-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/mcat/tags/</loc>
+    <loc>https://chris-prener.github.io/mcat/tags/</loc>
     <priority>0</priority>
   </url>
   
